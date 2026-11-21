@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <style>
+    .t { font: 700 56px 'Courier New', monospace; fill: #fff; letter-spacing: 10px; animation: breathe 3s ease-in-out infinite; }
+    .s { font: 16px 'Courier New', monospace; fill: #aaa; letter-spacing: 4px; animation: fade 4s ease-in-out infinite; }
+    .st { fill: #fff; animation: tw 2.5s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    @keyframes fade { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
+    @keyframes tw { 0%,100% { opacity: .05; } 50% { opacity: 1; } }
+  </style>
+  <rect width="900" height="220" fill="#000"/>
+  <circle class="st" cx="60" cy="40" r="2"/>
+  <circle class="st" cx="180" cy="170" r="1.5" style="animation-delay:.5s"/>
+  <circle class="st" cx="300" cy="30" r="2" style="animation-delay:1s"/>
+  <circle class="st" cx="620" cy="185" r="2" style="animation-delay:1.5s"/>
+  <circle class="st" cx="760" cy="50" r="1.5" style="animation-delay:.8s"/>
+  <circle class="st" cx="840" cy="150" r="2" style="animation-delay:2s"/>
+  <circle class="st" cx="480" cy="25" r="1.5" style="animation-delay:1.2s"/>
+  <text x="450" y="112" text-anchor="middle" class="t">WHITE RAVEN</text>
+  <text x="450" y="152" text-anchor="middle" class="s">samf13 // watching in silence</text>
+</svg>

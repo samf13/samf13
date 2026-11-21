@@ -2,36 +2,34 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=samf13&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%93%85%83%20watching%20in%20silence%2C%20coding%20in%20the%20dark&descSize=16&descAlignY=60" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="White Raven"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=520&lines=%F0%9F%90%A6%E2%80%8D%E2%AC%9B+Hi%2C+I'm+samf13;Developer+%7C+Night+Owl+%7C+Crow+Enthusiast;Building+things+in+black+%26+white" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=560&lines=🪶+I+am+the+White+Raven;The+rarest+bird+in+the+dark;samf13+%7C+Developer+%7C+Night+Owl;Code+in+black.+Think+in+white." alt="Typing SVG" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=samf13&label=VISITORS&color=000000&style=for-the-badge&labelColor=ffffff)
+![Visitors](https://komarev.com/ghpvc/?username=samf13&label=WHITE+RAVEN+VISITORS&color=000000&style=for-the-badge&labelColor=ffffff)
 ![Followers](https://img.shields.io/github/followers/samf13?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ffffff)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0,0,0&height=2" width="100%"/>
 
-### 🐦‍⬛ About Me
+## 🪶 The White Raven
 
 ```text
 > whoami
-samf13
+samf13, the White Raven
 
-> cat about.txt
-Like a crow: curious, clever, and always watching.
-I collect shiny bits of code and turn them into projects.
+> cat legend.txt
+A white raven is rare, unusual, and impossible to ignore.
+I build things that stand out in a flock of black.
 
 > status
 [■■■■■■■■□□] 80% caffeinated
 ```
 
----
-
-### 🛠️ Tech Stack
+## 🛠️ White Raven's Toolkit
 
 <div align="center">
 
@@ -44,24 +42,26 @@ I collect shiny bits of code and turn them into projects.
 
 </div>
 
----
-
-### 📊 GitHub Stats
+## 📊 White Raven Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samf13&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samf13&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samf13&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=samf13&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=ffffff&border=ffffff" />
 
 </div>
 
----
+## 🐍 The White Raven Eats Contributions
 
-### 🌑 Contribution Graph
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samf13/samf13/output/github-snake.svg" alt="snake" width="100%"/>
+
+</div>
+
+## 🌑 White Raven Flight Log
 
 <div align="center">
 
@@ -69,18 +69,12 @@ I collect shiny bits of code and turn them into projects.
 
 </div>
 
----
-
-### 📫 Contact
+## 📫 Find the White Raven
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-samf13-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samf13)
-<!-- Link haye khodet ro inja ezafe kon -->
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/YOUR_ID) -->
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=footer&text=the%20white%20raven%20sees%20all&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
