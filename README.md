@@ -4,7 +4,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="White Raven"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=560&lines=🪶+I+am+the+White+Raven;The+rarest+bird+in+the+dark;samf13+%7C+Developer+%7C+Night+Owl;Code+in+black.+Think+in+white." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=520&lines=%F0%9F%90%A6%E2%80%8D%E2%AC%9B+Hi%2C+I'm+samf13;Developer+%7C+Night+Owl+%7C+Crow+Enthusiast;Building+things+in+black+%26+white" alt="Typing SVG" />
 
 <br/><br/>
 
