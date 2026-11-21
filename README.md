@@ -1,51 +1,41 @@
 # samf13
 
-  <div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=150&section=header&text=SAMF13&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Developer%20%7C%20Creator&descSize=14&descAlignY=78" width="100%" />
+\<img src="[https://github.com/samf13.png](https://github.com/samf13.png)" width="135" alt="White Raven profile picture" />
 
-<br/>
+# WHITE RAVEN
 
-### SOFTWARE DEVELOPER
+**@samf13**
 
-*Turning ideas into code.*
+`WEB DEVELOPER` · `JAVASCRIPT`
 
-<br/>
+_Maybe a web dev. Definitely a developer in progress._
 
-[GitHub](https://github.com/samf13) · Open to learning · Always building
+\<br/>
 
-</div>
+[GitHub Profile](https://github.com/samf13)
 
----
-
-### `01 / ABOUT`
-
-I'm a developer interested in building modern web applications.
-
-Currently exploring JavaScript, Node.js and the world of software development.
-
-### `02 / TECHNOLOGIES`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=light" />
-
-</div>
-
-### `03 / GITHUB`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samf13&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=111111" width="55%" />
-
-</div>
+\</div>
 
 ---
 
-<div align="center">
+### ABOUT
 
-**SAMF13**
+I'm interested in web development and building things that are simple, useful, and well-designed.
 
-<sub>Designed with simplicity. Built with curiosity.</sub>
+Currently learning JavaScript and Node.js, improving my skills one project at a time.
 
-</div>
+### TECH STACK
+
+\<p> \<img src="[https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark)" /> \</p>
+
+---
+
+\<div align="center">
+
+**WHITE RAVEN**
+
+\<sub>Quiet mind. Clean code. Endless curiosity.\</sub>
+
+\</div>
