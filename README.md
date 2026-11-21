@@ -3,9 +3,9 @@
  
 <div align="center">
 
-# 👋 Hi, I'm Amir Mohammad Fatemi
+# 👋 White Raven
 
-### 💻 Web Developer | JavaScript Developer
+### 💻 Maybe Web Developer 
 
 *Building, learning, and creating things for the web.*
 
@@ -16,10 +16,7 @@
 ## 🚀 About Me
 
 - 💻 Interested in Web Development
-- 🌱 Currently learning JavaScript and Node.js
-- 🎯 Working towards becoming a professional developer
-- 🧠 Always learning new technologies
-- ⚡ I enjoy building practical projects
+- 🌱 Currently learning web developing
 
 ## 🛠️ Languages and Tools
 
