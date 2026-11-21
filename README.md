@@ -10,7 +10,7 @@
 
 `WEB DEVELOPER` · `JAVASCRIPT`
 
-_Maybe a web dev. Definitely a developer in progress._
+*Maybe a web dev. Definitely a developer in progress.*
 
 \<br/>
 
@@ -28,7 +28,7 @@ Currently learning JavaScript and Node.js, improving my skills one project at a 
 
 ### TECH STACK
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark)" /> \</p>
+\<p> \<img src="[https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode\&theme=dark)" /> \</p>
 
 ---
 
