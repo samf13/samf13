@@ -1,54 +1,42 @@
 # samf13
 
- 
-<div align="center">
+  <div align="center">
 
-# 👋 White Raven
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=150&section=header&text=SAMF13&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=Developer%20%7C%20Creator&descSize=14&descAlignY=78" width="100%" />
 
-### 💻 Maybe Web Developer 
+<br/>
 
-*Building, learning, and creating things for the web.*
+### SOFTWARE DEVELOPER
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:203a43&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff" width="100%" />
+*Turning ideas into code.*
 
-</div>
+<br/>
 
-## 🚀 About Me
-
-- 💻 Interested in Web Development
-- 🌱 Currently learning web developing
-
-## 🛠️ Languages and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
+[GitHub](https://github.com/samf13) · Open to learning · Always building
 
 </div>
 
-## 📊 GitHub Statistics
+---
+
+### `01 / ABOUT`
+
+I'm a developer interested in building modern web applications.
+
+Currently exploring JavaScript, Node.js and the world of software development.
+
+### `02 / TECHNOLOGIES`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=light" />
 
 </div>
 
-## 🔥 Contribution Streak
+### `03 / GITHUB`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<img src="https://github-readme-stats.vercel.app/api?username=samf13&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=111111" width="55%" />
 
 </div>
 
@@ -56,6 +44,8 @@
 
 <div align="center">
 
-*Thanks for visiting my profile! ⭐*
+**SAMF13**
+
+<sub>Designed with simplicity. Built with curiosity.</sub>
 
 </div>
