@@ -53,13 +53,6 @@ I build things that stand out in a flock of black.
 
 </div>
 
-## 🐍 The White Raven Eats Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/samf13/samf13/output/github-snake.svg" alt="snake" width="100%"/>
-
-</div>
 
 ## 🌑 White Raven Flight Log
 
